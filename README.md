@@ -13,13 +13,6 @@ problem-name/
 boilerplate.cpp        # Reusable template with common utilities
 ```
 
-## Problems
-
-| # | Problem | Topics |
-|---|---------|--------|
-| 1 | [A - Construct an Array](A_Construct_an_Array/) | Constructive |
-| 2 | [B - Rooms and Staircases](B_Rooms_and_Staircases/) | Greedy |
-
 ## Boilerplate
 
 [boilerplate.cpp](boilerplate.cpp) contains reusable utilities:
